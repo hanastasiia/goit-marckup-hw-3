@@ -291,7 +291,7 @@ button:focus {
 }
 
 .pfl-list {
-  width: calc((100% - 48px) / 3);
+ width: calc((100% - 48px) / 3);
 }
 
 .pfl-main-div {

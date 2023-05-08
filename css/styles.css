@@ -215,7 +215,7 @@ button:focus {
 Section-three 
 
 .section-three {
-  padding: 120px;
+  padding: 120px 0;
 }
 
 .section-three-list {
@@ -225,7 +225,7 @@ Section-three
 
 .section-three-list-team {
   background-color: #ffffff;
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px ;
 }
 .section-three-div {

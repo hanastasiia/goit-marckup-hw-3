@@ -11,6 +11,10 @@
   --color-dairy: #fcfcfc;
 }
 
+img { 
+  display: block;
+}
+
 .link {
   text-decoration: none;
 }

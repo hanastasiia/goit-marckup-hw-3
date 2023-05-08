@@ -42,7 +42,7 @@ header {
   align-items: center;
 }
 
-.logo {
+.header-logo {
   font-family: Raleway, sans-serif;
   color: #4d5ae5;
   font-weight: 800;
@@ -171,19 +171,12 @@ button:focus {
   gap: 24px;
 }
 
-.section-three {
-  background-color: #f4f4fd;
-}
+
 .section-two-list-work {
   width: calc((100% - 48px) / 3);
 }
 
-.paragraph-hthree {
-  color: #434455;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  font-size: 16px;
-}
+
 
 .title-section {
   font-size: 36px;
@@ -244,14 +237,35 @@ Section-three
 
 .paragraph-hthree {
   text-align: center;
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
 }
 
 Footer-
 
 .footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
+.footer-logo {
+  font-family: Raleway, sans-serif;
+  color: #4d5ae5;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 16px;
+
+}
 .footer-span-logo {
   color: #f4f4fd;
+}
+
+.footer-paragraph{
+  max-width: 264px;
 }

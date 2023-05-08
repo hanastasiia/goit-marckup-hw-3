@@ -247,7 +247,8 @@ Footer-
 
 .footer {
   background-color: #2e2f42;
-  padding: 100px 0;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .footer-logo {

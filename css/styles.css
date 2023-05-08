@@ -91,6 +91,11 @@ a :focus {
   color: #ffffff;
   cursor: pointer;
   padding: 16px 32px;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
 }
 
 .main-button {
@@ -136,8 +141,9 @@ gap: 40px;
 }
 
 .title-hero{
-width: 496px;
+max-width: 496px;
 min-height: 120px; 
+
 
 }
 

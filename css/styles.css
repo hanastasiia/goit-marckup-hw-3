@@ -102,12 +102,12 @@ a :focus {
 .title-section-one{
   margin-bottom: 8px;
 }
-.setion-list{
+.setion-one-list{
 display: flex;
 gap: 24px;
 }
 
-.section-one-list {
+.section-one-list-features {
   width: calc((100% - 72px) / 4)
 }
 
@@ -169,11 +169,15 @@ min-height: 120px;
 .section-two{
 padding-bottom: 120px;
 }
+.section-two-list {
+  display: flex;
+  gap: 24px;
+}
 
 .section-three {
   background-color: #f4f4fd;
 }
-.section-two-list{
+.section-two-list-work {
   width: calc((100% - 48px) / 3)
 }
 

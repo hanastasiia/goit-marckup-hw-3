@@ -19,10 +19,20 @@
   list-style: none;
 }
 
+.container {
+width: 1158px;
+}
+
 .body {
   font-family: Roboto, sans-serif;
   color: #434455;
   background-color: #ffffff;
+}
+header{
+  border-bottom: 1px solid #E7E9FC;
+}
+.header-div{
+display: flex;
 }
 
 .logo {

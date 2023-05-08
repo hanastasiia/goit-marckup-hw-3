@@ -249,8 +249,8 @@ Footer- .footer {
   max-width: 264px;
 }
 
-.pfl-list {
-  padding: 96px;
+.pfl-main-section {
+  padding: 96px 0 120px;
 }
 
 .pfl-buttons {
@@ -278,4 +278,18 @@ Footer- .footer {
 .pfl-main-button:hover,
 .pfl-main-button:focus {
   border: 1px solid transparent;
+}
+
+.pfl-row-list {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
+.pfl-main-div {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
 }

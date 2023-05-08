@@ -110,18 +110,6 @@ a :focus {
   width: calc((100% - 72px) / 4);
 }
 
-.main-button {
-  font-family: Roboto, sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  cursor: pointer;
-  list-style: none;
-  color: #4d5ae5;
-  background-color: #f4f4fd;
-}
-
 button:hover,
 button:focus {
   color: #ffffff;
@@ -171,12 +159,9 @@ button:focus {
   gap: 24px;
 }
 
-
 .section-two-list-work {
   width: calc((100% - 48px) / 3);
 }
-
-
 
 .title-section {
   font-size: 36px;
@@ -187,8 +172,6 @@ button:focus {
   color: #2e2f42;
   margin-bottom: 72px;
 }
-
-
 
 .title-htwo {
   font-weight: 500;
@@ -205,9 +188,7 @@ button:focus {
   color: #434455;
 }
 
-Section-three 
-
-.section-three {
+Section-three .section-three {
   padding: 120px 0;
 }
 
@@ -219,7 +200,7 @@ Section-three
 .section-three-list-team {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
-  border-radius: 0px 0px 4px 4px ;
+  border-radius: 0px 0px 4px 4px;
 }
 .section-three-div {
   padding: 32px 16px;
@@ -243,9 +224,7 @@ Section-three
   font-size: 16px;
 }
 
-Footer-
-
-.footer {
+Footer- .footer {
   background-color: #2e2f42;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -261,12 +240,42 @@ Footer-
   text-transform: uppercase;
   display: inline-block;
   margin-bottom: 16px;
-
 }
 .footer-span-logo {
   color: #f4f4fd;
 }
 
-.footer-paragraph{
+.footer-paragraph {
   max-width: 264px;
+}
+
+.pfl-list {
+  padding: 96px;
+}
+
+.pfl-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px;
+}
+
+.pfl-main-button {
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  list-style: none;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  padding: 12px 24px;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
+}
+
+.pfl-main-button:hover,
+.pfl-main-button:focus {
+  border: 1px solid transparent;
 }

@@ -67,6 +67,7 @@ a :focus {
   background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
+  padding: 16px 32px;
 }
 
 .main-button {
@@ -103,6 +104,13 @@ button:focus {
 .hero-section {
   background-color: #2e2f42;
 }
+
+.title-hero{
+width: 496px;
+min-height: 120px; 
+
+}
+
 .address {
   line-height: 1.5;
   letter-spacing: 0.002em;

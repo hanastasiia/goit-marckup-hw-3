@@ -17,6 +17,7 @@
 
 .list {
   list-style: none;
+  display: flex;
 }
 
 .container {
@@ -33,12 +34,10 @@ padding: 0 15px;
 header{
   border-bottom: 1px solid #E7E9FC;
 }
-.header-div{
-display: flex;
-}
+
 
 .header-nav{
-  display: flex;
+
   align-items: center;
 }
 
@@ -54,7 +53,7 @@ display: flex;
 }
 
 .header-nav-list{ 
-display: flex;
+
 gap: 40px ;
 }
 
@@ -126,7 +125,7 @@ button:focus {
 }
 
 .list-contacts { 
-display: flex;
+
 gap: 40px;
 }
 

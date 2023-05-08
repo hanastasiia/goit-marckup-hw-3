@@ -189,7 +189,9 @@ button:focus {
   color: #434455;
 }
 
-Section-three .section-three {
+Section-three 
+
+.section-three {
   padding: 120px 0;
 }
 

@@ -162,6 +162,8 @@ button:focus {
 .section-two-list {
   display: flex;
   gap: 24px;
+  padding-left: 0;
+  
 }
 
 .section-two-list-work {
@@ -203,6 +205,7 @@ button:focus {
 .section-three-list {
   display: flex;
   gap: 24px;
+  padding-left: 0;
 }
 
 .section-three-list-team {
@@ -295,6 +298,7 @@ button:focus {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  padding-left: 0;
 }
 
 .pfl-row-list {

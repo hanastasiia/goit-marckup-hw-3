@@ -164,7 +164,7 @@ button:focus {
 }
 
 .section-two-list-work {
-  width: calc((100% - 48px) / 3);
+  width:calc((100% - 48px)/3);
 }
 
 .title-section {

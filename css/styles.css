@@ -55,12 +55,13 @@ header {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   margin-right: 76px;
+
 }
 
 .header-nav-list {
   display: flex;
   gap: 40px;
-  margin-right: 332px;
+  padding-right: 332px;
 }
 
 .header-span-logo {
@@ -72,6 +73,7 @@ header {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+
 }
 
 a :hover,

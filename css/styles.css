@@ -108,6 +108,7 @@ a :focus {
 .setion-one-list {
   display: flex;
   gap: 24px;
+  padding-left: 0;
 }
 
 .section-one-list-features {

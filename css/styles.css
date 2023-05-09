@@ -305,12 +305,14 @@ button:focus {
 }
 
 .pfl-list {
-  display: flex;
-  flex-wrap: wrap;
-  column-gap: 24px;
+--items: 3;
   row-gap: 48px;
 }
-
+.card-set {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--intent);
+}
 .pfl-row-list {
 flex-basis: calc(100% - var(--intent) * (var(--items) - 1)) / var(--items);
 }

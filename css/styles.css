@@ -61,7 +61,7 @@ header {
 .header-nav-list {
   display: flex;
   gap: 40px;
-  padding-right: 332px;
+
 }
 
 .header-span-logo {

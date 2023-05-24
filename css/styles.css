@@ -230,6 +230,7 @@ button:focus {
   letter-spacing: 0.02em;
   font-size: 16px;
   color: #434455;
+  line-height: 24px;
 }
 
 .section-three {
@@ -266,7 +267,7 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-size: 16px;
-
+  line-height: 24px;
 
 }
 
@@ -301,6 +302,7 @@ button:focus {
 .footer-paragraph {
   max-width: 264px;
   color: #F4F4FD;
+  line-height: 24px;
 }
 
 .pfl-main-section {

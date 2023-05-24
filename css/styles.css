@@ -15,6 +15,10 @@ img {
   display: block;
 }
 
+.margin {
+  margin: 0;
+}
+
 .link {
   text-decoration: none;
 }

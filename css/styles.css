@@ -194,7 +194,7 @@ button:focus {
   letter-spacing: 0.002em;
   color: #434455;
   margin-left: auto;
-  font-style: normaltitle-section
+  font-style: normal; 
 }
 
 .section-two {

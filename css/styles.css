@@ -264,6 +264,13 @@ button:focus {
   text-align: center;
 }
 
+.title-team{
+  width: 134px;
+  color: #2E2F42;
+  text-align: center;
+  margin-bottom: 8px
+}
+
 .footer {
   background-color: #2e2f42;
   padding-top: 100px;

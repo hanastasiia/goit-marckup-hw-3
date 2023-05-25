@@ -10,6 +10,12 @@
   --color-white: #ffffff;
   --color-dairy: #fcfcfc;
 }
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
 
 img {
   display: block;
@@ -70,7 +76,6 @@ header {
 .header-nav-list {
   display: flex;
   gap: 40px;
-
 }
 
 .header-span-logo {
@@ -133,7 +138,7 @@ a :focus {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-  list-style: none; 
+  list-style: none;
 }
 
 .setion-one-list {
@@ -194,7 +199,7 @@ button:focus {
   letter-spacing: 0.002em;
   color: #434455;
   margin-left: auto;
-  font-style: normal; 
+  font-style: normal;
 }
 
 .section-two {
@@ -239,7 +244,7 @@ button:focus {
 
 .section-three {
   padding: 120px 0;
-  background: #F4F4FD;
+  background: #f4f4fd;
 }
 
 .section-three-list {
@@ -272,15 +277,12 @@ button:focus {
   letter-spacing: 0.02em;
   font-size: 16px;
   line-height: 24px;
-
-
 }
 
-.title-team{
-  color: #2E2F42;
+.title-team {
+  color: #2e2f42;
   text-align: center;
-  margin-bottom: 8px
- 
+  margin-bottom: 8px;
 }
 
 .footer {
@@ -306,7 +308,7 @@ button:focus {
 
 .footer-paragraph {
   max-width: 264px;
-  color: #F4F4FD;
+  color: #f4f4fd;
   line-height: 24px;
 }
 
@@ -352,9 +354,8 @@ button:focus {
   width: calc((100% - 48px) / 3);
 }
 
-.pfl-main-div { 
+.pfl-main-div {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
 }
-

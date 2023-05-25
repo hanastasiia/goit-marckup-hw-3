@@ -275,6 +275,15 @@ button:focus {
   line-height: 24px;
 }
 
+.paragraph-team {
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+
 .title-team {
   color: #2e2f42;
   text-align: center;
